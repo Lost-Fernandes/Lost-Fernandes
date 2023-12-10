@@ -13,5 +13,11 @@
 <img align= "center"alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <br>
-##Objetivo Profissional:
+##Objetivo Profissional:<br>
 Busco oportunidades como programador Jr para aplicar e expandir meus conhecimentos em desenvolvimento de software. Comprometido em contribuir para projetos desafiadores, estou ansioso para aprender e crescer na área.
+<br>
+
+Habilidades Técnicas:
+<br>
+Programação: Conhecimento básico em linguagens como Java.
+Desenvolvimento Web: Experiência básica em HTML, CSS e JavaScript etc...
