@@ -25,10 +25,6 @@ Desenvolvimento Web:
 <br>
 Experiência básica em HTML, CSS e JavaScript etc...
 <br>
-Projetos Pessoais:
-<br>
-Alguns projetos realizados no período do curso ...
-<br>
 Objetivos Futuros:
 <br>
 Estou empenhado em continuar meu desenvolvimento profissional, participando de treinamentos e projetos que ampliem minha experiência. Busco contribuir positivamente para o sucesso de equipes de desenvolvimento e alcançar novos patamares na minha carreira como programador.
