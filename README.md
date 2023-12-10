@@ -16,8 +16,24 @@
 ##Objetivo Profissional:<br>
 Busco oportunidades como programador Jr para aplicar e expandir meus conhecimentos em desenvolvimento de software. Comprometido em contribuir para projetos desafiadores, estou ansioso para aprender e crescer na área.
 <br>
-
 Habilidades Técnicas:
 <br>
-Programação: Conhecimento básico em linguagens como Java.
-Desenvolvimento Web: Experiência básica em HTML, CSS e JavaScript etc...
+Programação: 
+<br>
+Conhecimento básico é avançado em linguagens como Html Css Java entre outras linguagens
+Desenvolvimento Web: 
+<br>
+Experiência básica em HTML, CSS e JavaScript etc...
+<br>
+Projetos Pessoais:
+<br>
+Alguns projetos realizados no período do curso ...
+<br>
+Objetivos Futuros:
+<br>
+Estou empenhado em continuar meu desenvolvimento profissional, participando de treinamentos e projetos que ampliem minha experiência. Busco contribuir positivamente para o sucesso de equipes de desenvolvimento e alcançar novos patamares na minha carreira como programador.
+
+
+
+
+
