@@ -1,4 +1,4 @@
-### Olá! Sou Pascoal Fernandes 👾
+########### Olá! Sou Pascoal Fernandes 👾
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascoalfernandescosta/)
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fernandes.artex18@gmail.com)
@@ -12,3 +12,6 @@
 <img align= "center"alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align= "center"alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
+<br>
+##Objetivo Profissional:
+Busco oportunidades como programador Jr para aplicar e expandir meus conhecimentos em desenvolvimento de software. Comprometido em contribuir para projetos desafiadores, estou ansioso para aprender e crescer na área.
