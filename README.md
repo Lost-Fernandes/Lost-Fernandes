@@ -5,7 +5,6 @@
 
 ![Pascoal Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=pascoalfernandes&show_icons=true&theme=dracula)
 
-## Tecnologias em processo no meio dia dia
 
 <div style="display: ínline_block"><br>
 <img align= "center"alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
