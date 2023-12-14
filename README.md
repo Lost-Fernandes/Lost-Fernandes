@@ -1,6 +1,7 @@
 ## Olá! Sou Pascoal Fernandes 👾
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascoalfernandescosta/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascoalfernandescosta/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascoal-fernandes-fernandes-521964151/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fernandes.artex18@gmail.com)
 
 ![Pascoal Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=pascoalfernandes&show_icons=true&theme=dracula)
