@@ -1,8 +1,9 @@
 ## Olá! Sou Pascoal Fernandes 👾
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lost-Fernandes/Lost-Fernandes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascoalfernandescosta/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascoal-fernandes-fernandes-521964151/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Andreiamae4385/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascoalfernandescosta/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fernandes.artex18@gmail.com)
 
 ![Pascoal Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=pascoalfernandes&show_icons=true&theme=dracula)
