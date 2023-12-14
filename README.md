@@ -8,7 +8,7 @@
 
 ![Pascoal Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=pascoalfernandes&show_icons=true&theme=dracula)
 
-#🖥️💻!
+#🖥️💻 Habilidades!
 
 
 <div style="display: ínline_block"><br>
