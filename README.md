@@ -1,4 +1,4 @@
-<i class="fad fa-dove"></i>## Olá! Sou Pascoal Fernandes 👾
+## Olá! Sou Pascoal Fernandes 👾
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lost-Fernandes/Lost-Fernandes/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascoal-fernandes-fernandes-521964151/)
@@ -14,6 +14,7 @@
 
 
 <div style="display: ínline_block"><br>
+  <i class="fad fa-dove"></i>
 <img align= "center"alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align= "center"alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align= "center"alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
